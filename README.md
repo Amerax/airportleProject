@@ -4,7 +4,7 @@ A fun wordle type game except with airport codes.
 
 To play the game simply open up any IDE and insert both the .csv file and the .py python file. Then simply run the code and follow the instructions on the terminal!
 
-Demo link w/ NO DOWNLOAD REQUIRED simply press run on the top right: https://py3.codeskulptor.org/#user311_7xHy7xPOqT_0.py
+Demo link w/ NO DOWNLOAD REQUIRED simply press run on the top right: https://py3.codeskulptor.org/#user311_7xHy7xPOqT_1.py
 
 REMINDER: YOU MUST type 3 letters at once to play the game properly, not just one letter at once like with hangman. So you must input "abc" "xyz" NOT just "x" then "y" like that. 
 
