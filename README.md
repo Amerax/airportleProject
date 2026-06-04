@@ -15,4 +15,4 @@ The game operates using a continuous feedback loop divided into three main parts
 Inside the core game engine, the program tracks the match state using counters for your remaining turns alongside lists that sort your guessed letters into correct spots, wrong spots, or wrong letters entirely. During each turn, the script checks if your input is exactly three letters long to increment your turn counter, and then simultaneously evaluates the character and its position index against the secret code. If you match the code exactly, you win; if you hit six valid attempts without a match, the loop terminates and reveals the correct airport code.
 
 
-<img width="2534" height="875" alt="image" src="https://github.com/user-attachments/assets/f111a027-3a79-4b4e-a854-5906dd4a2fda" />
+<img width="2559" height="789" alt="image" src="https://github.com/user-attachments/assets/e83da995-a799-4525-a407-59d42f56980a" />
