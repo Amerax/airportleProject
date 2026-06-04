@@ -13,3 +13,6 @@ This code was written in python.
 The game operates using a continuous feedback loop divided into three main parts: picking a code, running the menu, and evaluating guesses. First, the program sets up a collection of three-letter airport codes and uses a random number generator to select one secret target for the round. A main menu loop manages the user's entry into the game, ensuring that once a match ends, the player is cleanly prompted to play again rather than the script shutting down.
 
 Inside the core game engine, the program tracks the match state using counters for your remaining turns alongside lists that sort your guessed letters into correct spots, wrong spots, or wrong letters entirely. During each turn, the script checks if your input is exactly three letters long to increment your turn counter, and then simultaneously evaluates the character and its position index against the secret code. If you match the code exactly, you win; if you hit six valid attempts without a match, the loop terminates and reveals the correct airport code.
+
+
+<img width="2534" height="875" alt="image" src="https://github.com/user-attachments/assets/f111a027-3a79-4b4e-a854-5906dd4a2fda" />
