@@ -8,7 +8,7 @@ Demo link w/ NO DOWNLOAD REQUIRED simply press run on the top right: https://py3
 
 REMINDER: YOU MUST type 3 letters at once to play the game properly, not just one letter at once like with hangman. So you must input "abc" "xyz" NOT just "x" then "y" like that. 
 
-This code was written in python. 
+This code was written in python and uses a csv reader. 
 
 The game operates using a continuous feedback loop divided into three main parts: picking a code, running the menu, and evaluating guesses. First, the program sets up a collection of three-letter airport codes and uses a random number generator to select one secret target for the round. A main menu loop manages the user's entry into the game, ensuring that once a match ends, the player is cleanly prompted to play again rather than the script shutting down.
 
